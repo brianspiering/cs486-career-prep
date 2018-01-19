@@ -24,12 +24,12 @@ Prerequisites:
 Logistics
 ------
 
-Instructor: Dr. Brian Spiering
-Email:  [bspiering@gmail.com](mailto:brianspiering)
-Office: TBD
-Office Hours: TBD & By appointment 
-Class Location: TBD
-Class Days/Times: Tuesday at 6:20p-8:15p
-Requirements: 2 units with minimal required work outside of class
+Instructor: Dr. Brian Spiering  
+Email:  [bspiering@gmail.com](mailto:brianspiering)  
+Office: TBD   
+Office Hours: TBD & By appointment   
+Class Location: LS 307  
+Class Days/Times: Tuesday at 6:20p-8:15p  
+Requirements: 2 units with minimal required work outside of class  
 
 
