@@ -25,7 +25,7 @@ Logistics
 ------
 
 Instructor: Dr. Brian Spiering
-Email:  [bspiering@usfca.edu](mailto:bspiering@usfca.edu)
+Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu)
 Office: TBD
 Office Hours: TBD & By appointment
 Class Location: LS 307
@@ -50,24 +50,21 @@ Preparation materials for the class will be online readings and videos.
 These books are optional but highly suggested. They belong on the bookshelf of every working software engineer:
 
 1. [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-2. Elements of Programming Interviews:
+1. Elements of Programming Interviews:
     - [Python edition](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
     - [Java edition](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
     - [C++ edition](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-3. [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+1. [What Color Is Your Parachute? 2018: A Practical Manual for Job-Hunters and Career-Changers](https://www.amazon.com/What-Color-Your-Parachute-2018/dp/039957963X)
+1. [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
 Attendance Policy
 -----
-Attendance is mandatory. Absences are only excused in cases of verified family or
-medical emergency. You will not learn this material unless you are in class participating.
-Also there will be pair/group work, you’ll let down your pair/group when you miss class.
+Attendance is mandatory. Absences are only excused in cases of verified family or medical emergency. You will not learn this material unless you are in class participating. Also there will be pair/group work, you’ll let down your pair/group when you miss class.
 
 Students with Disabilities
 -----
 
-If you are a student with a disability or disabling condition, or if you think you may
-have a disability, please contact USF Student Disability Services (SDS) at (415) 422-2613
-within the first week of class, or immediately upon onset of disability, to speak with a disability  specialist. If you are determined eligible for reasonable accommodations, please provide me  with your SDS Verified Individualized Services and Accommodations (VISA) form,  and we will discuss your needs for this course. For more information,
+If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at (415) 422-2613 within the first week of class, or immediately upon onset of disability, to speak with a disability  specialist. If you are determined eligible for reasonable accommodations, please provide me  with your SDS Verified Individualized Services and Accommodations (VISA) form,  and we will discuss your needs for this course. For more information,
 please visit: http://www.usfca.edu/sds or call (415) 422-2613.
 
 Electronic Devices
