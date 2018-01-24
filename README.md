@@ -24,14 +24,14 @@ Prerequisites:
 Logistics
 ------
 
-Instructor: Dr. Brian Spiering
-Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu)
-Office: TBD
-Office Hours: TBD & By appointment
-Class Location: LS 307
-Class Days/Times: Tuesday at 6:20p-8:15p
-Requirements: 2 units with minimal required work outside of class
-Grading: Pass / No Pass. You must attend all classes and complete homeworks.
+Instructor: Dr. Brian Spiering   
+Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu) 
+Office: TBD   
+Office Hours: TBD & By appointment 
+Class Location: LS 307 
+Class Days/Times: Tuesday at 6:20p-8:15p 
+Requirements: 2 units with minimal required work outside of class  
+Grading: Pass / No Pass. You must attend all classes and complete homeworks.  
 
 Learning Objectives:
 -----
