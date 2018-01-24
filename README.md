@@ -15,7 +15,7 @@ Along the way, we’ll bring in guest speakers and USF alumni from industry who 
 Prerequisites:
 ------
 
-- Junior or senior CS student (the prerequisite is CS 245)
+- Junior or Senior CS student (the prerequisite is CS 245)
 - Fluent in at least one language, preferably Python
 - Working knowledge of basic data structures (e.g., hash maps and arrays) and algorithms (e.g., sorting and search)
 - Knowledge of algorithm complexity and Big O notation
@@ -24,14 +24,16 @@ Prerequisites:
 Logistics
 ------
 
-Instructor: Dr. Brian Spiering   
-Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu) 
-Office: TBD   
-Office Hours: TBD & By appointment 
-Class Location: LS 307 
-Class Days/Times: Tuesday at 6:20p-8:15p 
+Instructor: Dr. Brian Spiering  
+Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
+Office: Harney 440A  
+Office Hours: TBD & By appointment  
+Class Location: LS 307  
+Class Days/Times: Tuesday at 6:20p-8:15p  
 Requirements: 2 units with minimal required work outside of class  
-Grading: Pass / No Pass. You must attend all classes and complete homeworks.  
+Grading: Pass / No Pass. You must attend all classes and complete homeworks  
+Course website: https://github.com/brianspiering/cs486-career-prep  
+Course communication: Slack TBD  
 
 Learning Objectives:
 -----
