@@ -1,7 +1,7 @@
 Things for next class on 2018-01-30
 ----
 
-1. Find 3 job postings. Post them to Slack (once Brian invites you)
+1. Find 3 job postings. Post them to this channel on [Slack](https://usf-cs-courses.slack.com/messages/C8Z51FXU6). Email Brian if not on Slack.
 2. Bring your laptop
 3. Review string datatype and string manipulation
   - https://leetcode.com/articles/string-manipulation/
