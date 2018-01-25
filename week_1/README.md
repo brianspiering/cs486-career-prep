@@ -1,9 +1,9 @@
-things for next class
+Things for next class on 2018-01-30
 ----
 
 1. Find 3 job postings. Post them to Slack (once Brian invites you)
 2. Bring your laptop
-3. Review string data type and string manipulation
+3. Review string datatype and string manipulation
   - https://leetcode.com/articles/string-manipulation/
   - https://www.geeksforgeeks.org/string-data-structure/
   - Brian 😘 "The Algorithm Design Manual"
