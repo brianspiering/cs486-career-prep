@@ -86,4 +86,4 @@ Students are required to follow the University's Honor Code:
 
 >"As a Jesuit institution committed to cura personalis- the care and education of the whole person- USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University’s Honor Code. "
 
-You can find the full text of the code online at www.usfca.edu/fogcutter.
+You can find the full text of the code online at www.usfca.edu/fogcutter.  
