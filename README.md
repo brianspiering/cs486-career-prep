@@ -29,7 +29,7 @@ Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu)
 Office: Harney 440A  
 Office Hours: TBD & By appointment  
 Class Location: LS 307  
-Class Days/Times: Tuesday at 6:20p-8:15p  
+Class Days/Times: Tuesday at 6:30p-8:15p  
 Requirements: 2 units with minimal required work outside of class  
 Grading: Pass / No Pass. You must attend all classes and complete homeworks  
 Course website: https://github.com/brianspiering/cs486-career-prep  
