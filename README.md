@@ -27,22 +27,23 @@ Logistics
 Instructor: Dr. Brian Spiering  
 Email: [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
 Office: Harney 440A  
-Office Hours: TBD & By appointment  
+Office Hours:   
+&nbsp;&nbsp;&nbsp;&nbsp;- Tues & Thrus 11:35-12:15        
+&nbsp;&nbsp;&nbsp;&nbsp;- Tues 5:30-6:20  
+&nbsp;&nbsp;&nbsp;&nbsp;- By appointment  
 Class Location: LS 307  
 Class Days/Times: Tuesday at 6:30p-8:15p  
 Requirements: 2 units with minimal required work outside of class  
-Grading: Pass / No Pass. You must attend all classes and complete homeworks  
-Course website: https://github.com/brianspiering/cs486-career-prep  
-Course communication: Slack TBD  
+Course website: [github.com/brianspiering/cs486-career-prep](https://github.com/brianspiering/cs486-career-prep)  
+Course communication: [Slack channel](https://usf-cs-courses.slack.com/messages/C8Z52FNUW)
 
 Learning Objectives:
 -----
 
-- Complete a technical interview either on a whiteboard or in a code editor
-- Present your abilities, experience and knowledge through examples, evidence, and stories
-- Create a professional resume
-- Create an online portfolio
-- Negotiate a starting compensation package
+- Complete a technical interview both on a whiteboard and in a code editor
+- Present your abilities, experience, and knowledge through examples, evidence, and stories
+- Create a professional resume and online portfolio
+- Practice negotiating a starting compensation package
 
 Textbooks
 -----
@@ -86,4 +87,4 @@ Students are required to follow the University's Honor Code:
 
 >"As a Jesuit institution committed to cura personalis- the care and education of the whole person- USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University’s Honor Code. "
 
-You can find the full text of the code online at www.usfca.edu/fogcutter.  
+You can find the full text of the code online at www.usfca.edu/fogcutter.
