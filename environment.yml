@@ -1,0 +1,11 @@
+name: prep
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python=3.6
+  - ipython
+  - jupyter
+  - pip
+  - pip:
+    - rise
