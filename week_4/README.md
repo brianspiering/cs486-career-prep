@@ -6,4 +6,5 @@ Things for class on 2018-02-13
     - https://en.wikipedia.org/wiki/Bitwise_operation
     - https://wiki.python.org/moin/BitwiseOperators
     - [Video: bitwise in c](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-    - Bitwise hacks
+    - [Bitwise hacks](https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
+
