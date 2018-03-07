@@ -1,0 +1,2 @@
+- Review dynamic programming (this is the _one weird trick_ that works at interviews)
+- Be prepared to answer an easier question in non-preferred language. If use a compiled language, pick a dynamic language. Vice versa.
