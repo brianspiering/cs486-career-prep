@@ -1,0 +1,1 @@
+![](http://i0.kym-cdn.com/photos/images/newsfeed/000/308/005/28c.jpg)
