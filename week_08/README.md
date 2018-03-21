@@ -1,1 +1,2 @@
-![](http://i0.kym-cdn.com/photos/images/newsfeed/000/308/005/28c.jpg)
+- Review dynamic programming (this is the _one weird trick_ that works at interviews)
+- Be prepared to answer an easier question in non-preferred language. If use a compiled language, pick a dynamic language. Vice versa.
